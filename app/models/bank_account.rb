@@ -21,5 +21,6 @@ class BankAccount < ApplicationRecord
           previous_amount: self.changes[:amount].first,
           new_amount: self.amount
         }
-    end 
+      end 
+    end
 end

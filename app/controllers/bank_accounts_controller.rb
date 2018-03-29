@@ -8,7 +8,6 @@ class BankAccountsController < ApplicationController
 
   # GET /bank_accounts/:id
   def show
-
   end
 
   # GET /bank_accounts/new
